@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"curr",
+				"currentContent"
+			],
+			[
+				"vert",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/base.css",
+			"settings":
+			{
+				"buffer_size": 10654,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/jquery.design.js",
+			"settings":
+			{
+				"buffer_size": 5457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/reset.css",
+			"settings":
+			{
+				"buffer_size": 10067,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 23535,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Wedding/website/scripts/jflickrfeed.min.js",
+		"/D/Wedding/website/index.html",
+		"/D/Wedding/website/jflickrfeed.js",
+		"/D/Wedding/website/gentlemen/css/base.css",
+		"/D/Wedding/website/gentlemen/scripts/jquery.design.js",
+		"/C/Users/Brandon/Desktop/moustache [Converted].svg",
+		"/D/Wedding/website/gentlemen/index.html",
+		"/D/Wedding/website/css/base.css",
+		"/D/Wedding/website/gentlemen/css/styles.css",
+		"/D/Wedding/website/css/jquery.fancybox.css",
+		"/D/Wedding/website/scripts/jquery.design.js",
+		"/C/Users/Brandon/Downloads/jflickrfeed/jflickrfeed.min.js",
+		"/C/Users/Brandon/Downloads/jflickrfeed/setup.js",
+		"/D/Wedding/website/scripts/setup.js",
+		"/D/Wedding/website/css/style.css",
+		"/D/Wedding/website/example.html",
+		"/D/Wedding/website/css/styles.css",
+		"/C/Users/Brandon/Downloads/Crate_and_Barrel.svg",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/jquery.customizeroom.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/jquery.wizard.js",
+		"/D/Wedding/website/css/reset.css",
+		"/D/Wedding/website/scripts/jquery.countdown.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/css/structure.css",
+		"/C/Users/Brandon/Downloads/zurb-joyride-15d709c/zurb-joyride-15d709c/demo/demo-style.css",
+		"/C/Users/Brandon/Downloads/zurb-joyride-15d709c/zurb-joyride-15d709c/jquery.joyride-1.0.5.js",
+		"/D/Wedding/website/css/fonts/stylesheet.css",
+		"/D/352/KidsFirst_main/trunk/dev/css/features.css",
+		"/D/Wedding/website/client-login.aspx",
+		"/D/Wedding/website/client-login_alt.aspx",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/Microsite.master",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/Microsite-full.master",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/_Settings_ConnectionString.config",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/scripts/jquery.design.js",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/App_Code/Src/ContentManager/_Menu.cs",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/css/structure.css",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/css/typography.css",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/frontend.master",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/css/features.css",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/css/forms.css",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/css/popup.css",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/default.aspx",
+		"/D/352/NorthbridgeCompanies_Main/trunk/dev/Controls/SearchComponent/_SearchBox.ascx",
+		"/C/Users/Brandon/Desktop/test.html",
+		"/D/352/KidsFirst_main/trunk/dev/css/typography.css",
+		"/D/352/KidsFirst_main/trunk/dev/css/structure.css",
+		"/D/352/KidsFirst_main/trunk/dev/_Settings_ConnectionString.config",
+		"/D/352/KidsFirst_main/trunk/dev/inner.master",
+		"/D/352/KidsFirst_main/trunk/dev/frontend.master",
+		"/D/352/KidsFirst_main/trunk/dev/classes.aspx",
+		"/D/352/CompuLink_main/trunk/dev/css/typography.css",
+		"/D/352/AppSense_main/trunk/dev/css/typography.css",
+		"/D/352/KidsFirst_main/trunk/dev/search.aspx",
+		"/D/352/RapidRemodel_Main/trunk/dev/request-appointment.aspx",
+		"/D/352/RapidRemodel_Main/trunk/dev/request-appointment.aspx.mine",
+		"/D/352/RapidRemodel_Main/trunk/dev/request-appointment.aspx.r235",
+		"/D/352/RapidRemodel_Main/trunk/dev/frontend.master",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/jquery.design.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/monthly-calendar.aspx",
+		"/D/352/RapidRemodel_Main/trunk/dev/css/jquery.weekcalendar.css",
+		"/D/352/RapidRemodel_Main/trunk/dev/css/jquery-ui-1.8.21.custom.css",
+		"/D/352/RapidRemodel_Main/trunk/dev/_Settings_ConnectionString.config",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/jquery.weekcalendar.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/jquery-ui.custom.min.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/demo.js",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/352/RapidRemodel_Main/trunk/dev/css/default.css",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/jquery.fancybox.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/css/popup.css",
+		"/D/352/RapidRemodel_Main/trunk/dev/css/jquery-ui-1.8.11.custom.css",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/jquery-ui-1.8.11.custom.min.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/scripts/webtoolkit.drag1.js",
+		"/D/352/RapidRemodel_Main/trunk/dev/Controls/BaseControls/DateTimePicker.ascx",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/Text/Plain text.tmLanguage",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/ASP/HTML-ASP.tmLanguage",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/ASP/ASP.tmLanguage",
+		"/D/352/WICHealth_Main/trunk/dev/_Settings_ConnectionString.config",
+		"/D/352/WICHealth_Main/trunk/dev/Lesson.aspx",
+		"/D/352/WICHealth_Main/trunk/dev/Css/mobile.css",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Brandon/Downloads/asp.vb.net.tmbundle/info.plist",
+		"/D/352/WICHealth_Main/trunk/dev/web.config"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\352\\NorthbridgeCompanies_Main\\trunk\\dev"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"feedapi ",
+			"#444",
+			"#9b1109",
+			"url('",
+			"262x110",
+			"microHeader",
+			"post-body",
+			"title",
+			"/KidsFirst_main/trunk/dev/",
+			"&rsquo;",
+			" class=\"Body\"",
+			"&lsquo;",
+			"&rsquo;",
+			"</strong></h4>",
+			"<h4><strong>",
+			"<p><strong>Postscripts:</strong></p>",
+			"/KidsFirst_main/trunk/dev/",
+			"&mdash;",
+			"&rdquo;",
+			"&ldquo;",
+			"&lsquo;",
+			"&rsquo;",
+			"h5",
+			"wc-title",
+			"_formatDate",
+			"_getHeaderDate",
+			"wc-day-column-header",
+			"_renderCalendarBody",
+			"text",
+			"wc-title",
+			"selectedDat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#414141",
+			"#a71e22",
+			"url('../img/",
+			"272x110",
+			"rightMainCol",
+			"",
+			"'",
+			"",
+			"'",
+			"</h4>",
+			"<h4>",
+			"<h5>Postscripts:</h5>",
+			"",
+			" &mdash; ",
+			"\"",
+			"'",
+			"h2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/base.css",
+					"settings":
+					{
+						"buffer_size": 10654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4200,
+								4200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3068.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/jquery.design.js",
+					"settings":
+					{
+						"buffer_size": 5457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2625,
+								2625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/reset.css",
+					"settings":
+					{
+						"buffer_size": 10067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 23535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15770,
+								15770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3754.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Brandon/Desktop/Rapid Remodel.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}

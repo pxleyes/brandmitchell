@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"brand-",
+				"brand-primary"
+			],
+			[
+				"font",
+				"headings-font-family"
+			],
+			[
+				"font-f",
+				"font-family-serif"
+			],
+			[
+				"activeSection",
+				"activeSectionID"
+			],
+			[
+				"activeSe",
+				"activeSectionID"
+			],
+			[
+				"font-family-sans",
+				"font-family-sans-alt"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"border-left",
+				"border-left"
+			],
+			[
+				"border-radiu",
+				"border-top-left-radius"
+			],
+			[
+				"link",
+				"linkedWidget"
+			],
+			[
+				"vert",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "less/brandmitchell.less",
+			"settings":
+			{
+				"buffer_size": 17588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.design.js",
+			"settings":
+			{
+				"buffer_size": 1493,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "our-wedding-website.html",
+			"settings":
+			{
+				"buffer_size": 4367,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/bootstrap/scaffolding.less",
+			"settings":
+			{
+				"buffer_size": 2021,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"Tidy",
+				"Tidy CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/variables.less",
+		"/C/Users/Brandon/Desktop/BMitchell/design/index.html",
+		"/C/Users/Brandon/Desktop/BMitchell/design/js/jquery.glide.js",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/glide.less",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/mixins.less",
+		"/C/Users/Brandon/Desktop/BMitchell/design/our-wedding/css/base.css",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/scaffolding.less",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/type.less",
+		"/C/Users/Brandon/Desktop/BMitchell/design/js/jquery.design.js",
+		"/C/Users/Brandon/Desktop/BMitchell/design/352.html",
+		"/C/Users/Brandon/Desktop/BMitchell/design/js/style.css",
+		"/C/Users/Brandon/Desktop/BMitchell/design/js/swipe.js",
+		"/C/Users/Brandon/Desktop/BMitchell/design/css/main.css",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/LESS/tests.less",
+		"/C/Users/Brandon/Desktop/BMitchell/design/BrandMitchell.sublime-workspace",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/bootstrap.less",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/navbar.less",
+		"/C/Users/Brandon/Downloads/Secure Ftp brandmit@brandmitchell.com.xml",
+		"/C/Users/Brandon/Desktop/BMitchell/design/default.html",
+		"/C/Users/Brandon/Dropbox/design/352.html",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/component-animations.less",
+		"/D/352/KCJonesPlating_Main/trunk/dev/web.config",
+		"/D/352/GelTech_Main/trunk/dev/FireIce.master.cs",
+		"/D/352/GelTech_Main/trunk/dev/Controls/SubSite/FireControlCalculator.ascx",
+		"/D/352/GelTech_Main/trunk/dev/scripts/fire-calculator.js",
+		"/D/352/GelTech_Main/trunk/dev/FireIce.master",
+		"/D/352/GelTech_Main/trunk/dev/Controls/StockTicker.ascx",
+		"/D/352/GelTech_Main/trunk/dev/Controls/DynamicHeader/DynamicHeader.ascx",
+		"/C/Users/Brandon/Desktop/BMitchell/design/less/main.less",
+		"/C/Users/Brandon/Desktop/magnolia_glauca.svg",
+		"/C/Users/Brandon/Dropbox/Wedding/website/scripts/jquery.design.js",
+		"/C/Users/Brandon/Dropbox/Wedding/website/index.html",
+		"/D/352/WesternFederal_Main/trunk/dev/blog/widgets/RecentPosts/edit.ascx",
+		"/D/352/WesternFederal_Main/trunk/dev/blog/widgets/Category list/widget.ascx",
+		"/D/352/WellsFargo_main/trunk/design/sliced/mobile/mobile_retirementSummary.html",
+		"/D/352/WellsFargo_main/trunk/design/sliced/mobile/mobile_planDetails.html",
+		"/D/352/WesternFederal_Main/trunk/dev/blog/themes/Standard/site.master.cs",
+		"/D/352/WesternFederal_Main/trunk/dev/frontend.master",
+		"/D/352/WesternFederal_Main/trunk/dev/web.config",
+		"/D/352/UniversalDirect/trunk/design/app-step1.html",
+		"/D/352/UniversalDirect/trunk/design/app-step2.html",
+		"/D/352/UniversalDirect/trunk/design/app-step3.html",
+		"/D/352/UniversalDirect/trunk/design/app-step4.html",
+		"/D/352/UniversalDirect/trunk/design/landing.html",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/close.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/modals.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/variables.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/popovers.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/bootstrap.less",
+		"/D/352/UniversalDirect/trunk/design/less/udicons.less",
+		"/D/352/UniversalDirect/trunk/design/less/main.less",
+		"/D/352/UniversalDirect/trunk/design/js/core/bootstrap.min.js",
+		"/D/352/UniversalDirect/trunk/design/js/jquery.design.js",
+		"/C/Users/Brandon/Desktop/ud-icons/svg/composite.svg",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/font-awesome/core.less",
+		"/D/352/UniversalDirect/trunk/design/less/datepicker.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/font-awesome/fixed-width.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/font-awesome/mixins.less",
+		"/D/352/UniversalDirect/trunk/design/less/udicons.css",
+		"/D/352/UniversalDirect/trunk/design/css/main.css",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/mixins.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/input-groups.less",
+		"/D/352/UniversalDirect/trunk/design/less/styles.css",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/forms.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/button-groups.less",
+		"/D/352/UniversalDirect/trunk/design/less/nccpa.less",
+		"/D/352/UniversalDirect/trunk/design/less/bootstrap/buttons.less",
+		"/D/352/UniversalDirect/trunk/design/default.html",
+		"/D/352/NaturalBalancePetFoods_Main/trunk/dev/dental-health-facts.aspx.cs",
+		"/D/352/NCCPA_Main/trunk/design/cme-details.html",
+		"/D/352/NCCPA_Main/trunk/design/cme-logs-step2-cat1.html",
+		"/D/352/NCCPA_Main/trunk/design/cme-logs-step2-cat2.html",
+		"/D/352/NCCPA_Main/trunk/design/default.html",
+		"/D/352/NCCPA_Main/trunk/design/cme-logs.html",
+		"/D/352/NCCPA_Main/trunk/design/js/number-polyfill.js",
+		"/D/352/NCCPA_Main/trunk/design/js/number-polyfill.min.js",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/variables.less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/font-awesome/variables.less",
+		"/D/352/NCCPA_Main/trunk/design/js/jquery.design.js",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/forms.less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/buttons.less",
+		"/D/352/NCCPA_Main/trunk/design/less/datepicker.less",
+		"/C/Users/Brandon/Downloads/number-polyfill-master/demo.html",
+		"/D/352/NCCPA_Main/trunk/design/js/bootstrap-numberInput.js",
+		"/C/Users/Brandon/Downloads/InputNumberIncrementer/js/incrementing.js",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/button-groups.less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/mixins.less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/bootstrap.less",
+		"/D/352/NCCPA_Main/trunk/design/js/bootstrap-datepicker.js",
+		"/D/352/NCCPA_Main/trunk/design/less/main.less",
+		"/C/Users/Brandon/Desktop/src/config.xml",
+		"/D/352/SocialNewsDesk_MobileApp/trunk/src/config.xml",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/type.less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/font-awesome/variables (2).less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/alerts.less",
+		"/C/Users/Brandon/Downloads/bootstrap-3.0.2/less/bootstrap.less",
+		"/D/352/NCCPA_Main/trunk/design/img/check-small.svg",
+		"/D/352/NCCPA_Main/trunk/design/img/check-small-white.svg",
+		"/D/352/NCCPA_Main/trunk/design/img/check.svg",
+		"/D/352/NCCPA_Main/trunk/design/img/todo-item.svg",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/scaffolding.less",
+		"/D/352/NCCPA_Main/trunk/design/img/chart-bg.svg",
+		"/C/Users/Brandon/Desktop/chart-bg.svg",
+		"/D/352/SocialNewsDesk_main/trunk/dev/App_Code/SocialNewsDesk/RestService/SndService.cs",
+		"/C/Users/Brandon/Desktop/src/scripts/viewModels/SocialNetworkAccount.js",
+		"/D/352/NCCPA_Main/trunk/design/less/nccpa.less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/grid.less",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/navs.less",
+		"/D/352/WellsFargo_main/trunk/design/sliced/OnlineDistributions_destinationIRA.html",
+		"/D/352/WellsFargo_main/trunk/design/sliced/OD_popup_fullServiceIRA.html",
+		"/D/352/WellsFargo_main/trunk/design/sliced/OnlineDistributions_fullServiceIRA.html",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/font-awesome/font-awesome.less",
+		"/D/352/352Media_Redesign2013/trunk/dev/frontend.master",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/component-animations.less",
+		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/code.less",
+		"/D/352/NCCPA_Main/trunk/design/js/core/bootstrap.min.js",
+		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/_includes/footer.html",
+		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/_layouts/default.html",
+		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/about.html",
+		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/_includes/header.html",
+		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/getting-started.html",
+		"/D/352/352Media_Redesign2013/trunk/dev/default.aspx",
+		"/D/352/352Media_Redesign2013/trunk/dev/less/352-animation.less",
+		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/index.html",
+		"/D/352/WellsFargo_main/trunk/design/sliced/default_OT.html",
+		"/D/352/WellsFargo_main/trunk/design/sliced/retail-ira/SelectAccount.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\352\\WesternFederal_Main\\trunk\\dev\\blog",
+			"D:\\352\\WellsFargo_main\\trunk\\design\\sliced",
+			"D:\\352\\WICHealth_Main\\trunk\\dev"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"callback",
+			"next",
+			"_.wrapper",
+			"navClass",
+			"slider-nav",
+			"site-frame",
+			"frame",
+			"width",
+			"kill",
+			"<li class=\"fe\"><em>F</em> <span>Front-End Development</span></li>",
+			"Fe",
+			"project-tags",
+			"Z",
+			"<div class=\"frame\">",
+			"frame",
+			".deep;",
+			"framed-box",
+			"lorempixel",
+			"<img src=\"#\" alt=\"portfolio piece\" />",
+			"<span>Project Details</span>",
+			"text-brand",
+			"inner",
+			"work-item framed-box",
+			"img-re",
+			"navbar",
+			"rangeAmoun",
+			"ui-slider",
+			"first",
+			"attributeWr",
+			"title",
+			":",
+			"filter",
+			"title",
+			"filterRese",
+			"slideWra",
+			".button",
+			"filterWrap",
+			"data-gallons",
+			"stock",
+			"change",
+			"slideshow",
+			"data-plane=\"--\" ",
+			"lor",
+			"rem",
+			"Global.css",
+			"main-l",
+			"<div class=\"application-section\"",
+			"application-section",
+			"application-section-content",
+			"application-section-contetn",
+			"modal",
+			"append",
+			"label-text",
+			"title",
+			".",
+			"callout",
+			"fa-",
+			"previous",
+			"fa fa-",
+			"fa fa-fw",
+			"absolute",
+			"fa fa-calendar",
+			"cdcdcd",
+			"label-text",
+			"group",
+			"empty",
+			"’",
+			"#fff;",
+			"padding",
+			"dental-",
+			"both",
+			"border-ra",
+			"Datepicker",
+			"shift",
+			"#eee",
+			"666",
+			"#666",
+			"666",
+			"#666",
+			"todayhigh",
+			"changeDate",
+			"inline",
+			"orange",
+			"@grayLight",
+			"footer",
+			"alert",
+			".83",
+			".66",
+			".61",
+			".39",
+			".21",
+			".48",
+			".27",
+			"54.92",
+			".35",
+			"search",
+			"			<a class=\"tap-btn search-btn ui-btn-left\" data-role=\"none\" href=\"#searchPage\"><i class=\"icon-search\"></i></a>",
+			"background-clip",
+			"shadow",
+			"transition",
+			"</head>",
+			"’",
+			"–",
+			"®",
+			"’",
+			"frmSignon",
+			"Go",
+			"c63contentMain",
+			"learn more",
+			"</th>",
+			"<th>",
+			"</th>",
+			"<th>",
+			"th",
+			"h3",
+			"class=\"c21\" ",
+			" class=\"c21Hdr\"",
+			" class=\"c21Blank\"",
+			" class=\"hdrlvl3\"",
+			" class=\"c11text\"",
+			"destination",
+			"select your",
+			"select",
+			" class=\"small\"",
+			"./SelectAccount_files/icn_check_16x16.gif",
+			"		",
+			"td",
+			"<div class=\"c26\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<li class=\"co\"><em>C</em> <span>Coding</span></li>",
+			"F",
+			"<ul class=\"project-tags\">\n                            <li class=\"fe\"><em>Fe</em> <span>Front-End Development</span></li>\n                            <li class=\"de\"><em>D</em> <span>Design</span></li>\n                        </ul>",
+			"<div class=\"frame framed-box\">",
+			"frame",
+			"placekitten",
+			"<img src=\"http://lorempixel.com/1200/640/\" alt=\"portfolio piece\" />",
+			"<span><em>Project Details</em></span>",
+			"framed-box",
+			"work-item",
+			"value",
+			"",
+			"ud-",
+			"ud-icon ud-",
+			"ud-icon ud-fw",
+			"ud-icon ud-calendar",
+			"ccc",
+			"'",
+			"@white;",
+			"@gray-lighter",
+			"@gray",
+			"brand-primary",
+			"@gray-light",
+			"",
+			"55",
+			"",
+			"\n</head>",
+			"<meta name=\"robots\" content=\"noindex, nofollow\">\n</head>",
+			"'",
+			"&mdash;",
+			"&reg;",
+			"'",
+			"</td>",
+			"<td>",
+			"</td>",
+			"<td>",
+			"td",
+			"h2",
+			"",
+			"fw/icons/check.gif",
+			"th",
+			"<p>",
+			"Sample Plan",
+			"<span class=\"retirement-title\">Retirement Services</span>",
+			".wipeIn().play()",
+			".wipeOut().play()",
+			".connect('onkeyup', f",
+			".connect('onclick', ",
+			"dojo.query(",
+			"dojo.query",
+			"",
+			"\"",
+			"-",
+			"'",
+			"",
+			"-",
+			"\"",
+			"'",
+			"\"",
+			"",
+			"'",
+			"",
+			" ",
+			"",
+			"-",
+			"",
+			"'",
+			"",
+			" ",
+			"'",
+			"",
+			"Q:",
+			"",
+			"'",
+			"",
+			"'",
+			"</h4>",
+			"<h4>",
+			"<h5>Postscripts:</h5>",
+			"",
+			" &mdash; ",
+			"\"",
+			"'",
+			"h2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "less/brandmitchell.less",
+					"settings":
+					{
+						"buffer_size": 17588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5434,
+								5466
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3105.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/jquery.design.js",
+					"settings":
+					{
+						"buffer_size": 1493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1407,
+								1407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "our-wedding-website.html",
+					"settings":
+					{
+						"buffer_size": 4367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2300,
+								2310
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "less/bootstrap/scaffolding.less",
+					"settings":
+					{
+						"buffer_size": 2021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Brandon/Desktop/Rapid Remodel.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true
+}
