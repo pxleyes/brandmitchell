@@ -52,35 +52,11 @@
 	"buffers":
 	[
 		{
-			"file": "less/brandmitchell.less",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 17588,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/jquery.design.js",
-			"settings":
-			{
-				"buffer_size": 1493,
+				"buffer_size": 47,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "our-wedding-website.html",
-			"settings":
-			{
-				"buffer_size": 4367,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "less/bootstrap/scaffolding.less",
-			"settings":
-			{
-				"buffer_size": 2021,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -144,6 +120,23 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Brandon/.ssh/config",
+		"/D/brandmitchell/.git/config",
+		"/C/Users/Brandon/.ssh/brandmitchell.pub",
+		"/C/Users/Brandon/.ssh/brandmitchell",
+		"/C/Users/Brandon/.git/config",
+		"/D/brandmitchell/brandmitchell",
+		"/D/brandmitchell/brandmitchell.pub",
+		"/C/Users/Brandon/.git/HEAD",
+		"/C/Users/Brandon/.git/description",
+		"/C/Users/Brandon/.ssh/known_hosts",
+		"/C/Users/Brandon/.ssh/id_rsa.pub",
+		"/C/Users/Brandon/.ssh/id_rsa",
+		"/D/brandmitchell/BrandMitchell.sublime-project",
+		"/D/brandmitchell/less/bootstrap/scaffolding.less",
+		"/D/brandmitchell/our-wedding-website.html",
+		"/D/brandmitchell/js/jquery.design.js",
+		"/D/brandmitchell/less/brandmitchell.less",
 		"/C/Users/Brandon/Desktop/BMitchell/design/less/bootstrap/variables.less",
 		"/C/Users/Brandon/Desktop/BMitchell/design/index.html",
 		"/C/Users/Brandon/Desktop/BMitchell/design/js/jquery.glide.js",
@@ -254,24 +247,7 @@
 		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/grid.less",
 		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/navs.less",
-		"/D/352/WellsFargo_main/trunk/design/sliced/OnlineDistributions_destinationIRA.html",
-		"/D/352/WellsFargo_main/trunk/design/sliced/OD_popup_fullServiceIRA.html",
-		"/D/352/WellsFargo_main/trunk/design/sliced/OnlineDistributions_fullServiceIRA.html",
-		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/font-awesome/font-awesome.less",
-		"/D/352/352Media_Redesign2013/trunk/dev/frontend.master",
-		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/component-animations.less",
-		"/D/352/NCCPA_Main/trunk/design/less/bootstrap/code.less",
-		"/D/352/NCCPA_Main/trunk/design/js/core/bootstrap.min.js",
-		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/_includes/footer.html",
-		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/_layouts/default.html",
-		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/about.html",
-		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/_includes/header.html",
-		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/getting-started.html",
-		"/D/352/352Media_Redesign2013/trunk/dev/default.aspx",
-		"/D/352/352Media_Redesign2013/trunk/dev/less/352-animation.less",
-		"/C/Users/Brandon/Downloads/bootstrap-3.0.1/index.html",
-		"/D/352/WellsFargo_main/trunk/design/sliced/default_OT.html",
-		"/D/352/WellsFargo_main/trunk/design/sliced/retail-ira/SelectAccount.html"
+		"/D/352/WellsFargo_main/trunk/design/sliced/OnlineDistributions_destinationIRA.html"
 	],
 	"find":
 	{
@@ -526,113 +502,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "less/brandmitchell.less",
+					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 17588,
+						"buffer_size": 47,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5434,
-								5466
-							]
-						],
-						"settings":
-						{
-							"spell_check": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3105.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js/jquery.design.js",
-					"settings":
-					{
-						"buffer_size": 1493,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1407,
-								1407
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 315.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "our-wedding-website.html",
-					"settings":
-					{
-						"buffer_size": 4367,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2300,
-								2310
+								47,
+								47
 							]
 						],
 						"settings":
 						{
 							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 138.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "less/bootstrap/scaffolding.less",
-					"settings":
-					{
-						"buffer_size": 2021,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								321,
-								321
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1170.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

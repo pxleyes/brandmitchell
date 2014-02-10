@@ -1915,7 +1915,7 @@ nav #main-nav.closed {
 .page-title h1 {
   display: inline-block;
   position: relative;
-  margin: 0.4em 0 1em;
+  margin: 0.4em 0 0.4em;
 }
 .page-title h1 em {
   display: block;
@@ -1943,7 +1943,6 @@ nav #main-nav.closed {
   clear: both;
   font-size: 1.6em;
   text-align: center;
-  margin-top: -0.8em;
   margin-bottom: 2em;
 }
 @media (min-width: 48em) {
@@ -1961,19 +1960,11 @@ nav #main-nav.closed {
     margin-left: 0;
     margin-right: 5.2em;
   }
-  .page-title h1 + h2 {
-    margin-top: -1.8em;
-  }
 }
 @media (min-width: 62em) {
   .page-title {
     margin-top: 0;
     margin-bottom: 1em;
-  }
-}
-@media (min-width: 80em) {
-  .page-title h1 + h2 {
-    margin-top: -2.6em;
   }
 }
 footer {
@@ -1983,7 +1974,7 @@ footer p {
   background: rgba(34, 53, 72, 0.4);
   padding: 1.2em;
   margin: 0;
-  color: #446a41;
+  color: #86867a;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-style: italic;
   text-align: center;
@@ -1993,11 +1984,12 @@ footer p {
     margin-top: 8em;
   }
   footer p {
-    font-size: 2.4em;
+    font-size: 1.8em;
   }
 }
 .project-tags {
-  margin: 0 0 4em;
+  display: none;
+  margin: 0 0 2em;
   padding: 0;
   text-align: center;
 }
@@ -2009,7 +2001,7 @@ footer p {
   margin: 0 0.6em;
   color: #f0dcde;
   font-family: 'Syncopate', sans-serif;
-  font-size: 1.3em;
+  font-size: 1.1em;
   line-height: 1.6em;
   text-align: center;
   border: 1px solid #f0dcde;
@@ -2033,6 +2025,11 @@ footer p {
   background: rgba(193, 164, 249, 0.09999999999999998);
   border-color: #c1a4f9;
   color: #c1a4f9;
+}
+@media (min-width: 48em) {
+  .project-tags li {
+    font-size: 1.3em;
+  }
 }
 .works {
   clear: both;
@@ -2320,15 +2317,27 @@ footer p {
 }
 .project-images {
   position: relative;
-  background: #f8eeef;
-  padding: 4em 0;
-  margin-top: 8em;
+  background: #f0dcde;
+  padding: 2em;
+  margin-top: 6em;
 }
 .project-images img {
   display: block;
-  margin: 20px auto;
+  margin: 2em auto 0;
   max-width: 100%;
   height: auto;
+}
+.project-images img:first-child {
+  margin-top: 0;
+}
+@media (min-width: 48em) {
+  .project-images {
+    margin-top: 8em;
+    padding: 3em;
+  }
+  .project-images img {
+    margin-top: 3em;
+  }
 }
 @media (min-width: 48em) {
   .project .site-title {
@@ -2340,14 +2349,164 @@ footer p {
   }
 }
 .project .page-title {
-  background: #666666;
-  padding: 20em 0 4em;
+  position: relative;
+}
+.project-header {
+  border-bottom: 14px solid rgba(66, 51, 83, 0.6);
+  width: 100%;
+  margin: 0 auto 3em;
+}
+.project-header img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+@media (min-width: 30em) {
+  .project-header {
+    margin-bottom: 4em;
+  }
+}
+@media (min-width: 48em) {
+  .project-header {
+    width: auto;
+    margin: 0 2em 6em;
+    border-bottom: none;
+    position: relative;
+    -webkit-box-shadow: -8px 14px 0 rgba(66, 51, 83, 0.6);
+    box-shadow: -8px 14px 0 rgba(66, 51, 83, 0.6);
+  }
+  .project-header:before,
+  .project-header:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+  }
+  .project-header:before {
+    top: -14px;
+    left: -8px;
+    border-bottom: 14px solid rgba(66, 51, 83, 0.6);
+    border-left: 8px solid transparent;
+    border-top: 14px solid transparent;
+  }
+  .project-header:after {
+    bottom: -28px;
+    right: 0px;
+    border-top: 14px solid rgba(66, 51, 83, 0.6);
+    border-right: 8px solid transparent;
+    border-bottom: 14px solid transparent;
+  }
+  .project-header.right-half {
+    -webkit-box-shadow: 8px 14px 0 rgba(66, 51, 83, 0.6);
+    box-shadow: 8px 14px 0 rgba(66, 51, 83, 0.6);
+  }
+  .project-header.right-half:before {
+    top: -14px;
+    right: -8px;
+    left: auto;
+    border-bottom: 14px solid rgba(66, 51, 83, 0.6);
+    border-right: 8px solid transparent;
+    border-left: none;
+    border-top: 14px solid transparent;
+  }
+  .project-header.right-half:after {
+    bottom: -28px;
+    right: auto;
+    left: 0px;
+    border-top: 14px solid rgba(66, 51, 83, 0.6);
+    border-left: 8px solid transparent;
+    border-right: none;
+    border-bottom: 14px solid transparent;
+  }
+}
+@media (min-width: 48em) and (min-width: 62em) {
+  .project-header.framed-box-deep {
+    -webkit-box-shadow: -16px 25px 0 rgba(66, 51, 83, 0.6);
+    box-shadow: -16px 25px 0 rgba(66, 51, 83, 0.6);
+  }
+  .project-header.framed-box-deep:before {
+    top: -27px;
+    left: -16px;
+    border-bottom-width: 26px;
+    border-left-width: 16px;
+    border-top-width: 26px;
+  }
+  .project-header.framed-box-deep:after {
+    bottom: -52px;
+    right: 0px;
+    border-bottom-width: 26px;
+    border-right-width: 16px;
+    border-top-width: 26px;
+  }
+  .project-header.framed-box-deep.left-half {
+    -webkit-box-shadow: 16px 25px 0 rgba(66, 51, 83, 0.6);
+    box-shadow: 16px 25px 0 rgba(66, 51, 83, 0.6);
+  }
+  .project-header.framed-box-deep.left-half:before {
+    top: -27px;
+    right: -16px;
+    border-bottom-width: 26px;
+    border-right-width: 16px;
+    border-top-width: 26px;
+  }
+  .project-header.framed-box-deep.left-half:after {
+    bottom: -50px;
+    right: 0px;
+    border-top-width: 25px;
+    border-left-width: 16px;
+    border-bottom-width: 25px;
+  }
+}
+@media (min-width: 48em) and (min-width: 62em) {
+  .project-header {
+    -webkit-box-shadow: -16px 25px 0 rgba(66, 51, 83, 0.6);
+    box-shadow: -16px 25px 0 rgba(66, 51, 83, 0.6);
+  }
+  .project-header:before {
+    top: -27px;
+    left: -16px;
+    border-bottom-width: 26px;
+    border-left-width: 16px;
+    border-top-width: 26px;
+  }
+  .project-header:after {
+    bottom: -52px;
+    right: 0px;
+    border-bottom-width: 26px;
+    border-right-width: 16px;
+    border-top-width: 26px;
+  }
+  .project-header.left-half {
+    -webkit-box-shadow: 16px 25px 0 rgba(66, 51, 83, 0.6);
+    box-shadow: 16px 25px 0 rgba(66, 51, 83, 0.6);
+  }
+  .project-header.left-half:before {
+    top: -27px;
+    right: -16px;
+    border-bottom-width: 26px;
+    border-right-width: 16px;
+    border-top-width: 26px;
+  }
+  .project-header.left-half:after {
+    bottom: -50px;
+    right: 0px;
+    border-top-width: 25px;
+    border-left-width: 16px;
+    border-bottom-width: 25px;
+  }
+}
+@media (min-width: 1340px) {
+  .project-header {
+    width: 1300px;
+    margin: 0 auto 8em;
+  }
 }
 .project-section {
   max-width: 132em;
   margin: 0 auto;
-  margin-bottom: 6em;
-  padding: 0 2em;
+  margin-bottom: 5em;
+  padding: 0 1em;
 }
 .project-section:before,
 .project-section:after {

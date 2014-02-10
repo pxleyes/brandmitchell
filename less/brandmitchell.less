@@ -25,9 +25,11 @@
 
 // Framed Boxes
 // --------------------------------------------------
+@frameBorderColor: rgba(66, 51, 83, 0.6);
+
 .framed-box {
     position: relative;
-    .box-shadow(-8px 14px 0 rgba(66, 51, 83, 0.6));
+    .box-shadow(-8px 14px 0 @frameBorderColor);
     
     &:before,
     &:after {
@@ -40,7 +42,7 @@
     &:before {
         top: -14px;
         left: -8px;
-        border-bottom: 14px solid rgba(66, 51, 83, 0.6);
+        border-bottom: 14px solid @frameBorderColor;
         border-left: 8px solid transparent;
         border-top: 14px solid transparent;
         
@@ -48,18 +50,18 @@
     &:after {
         bottom: -28px;
         right: 0px;
-        border-top: 14px solid rgba(66, 51, 83, 0.6);
+        border-top: 14px solid @frameBorderColor;
         border-right: 8px solid transparent;
         border-bottom: 14px solid transparent;
     }
     &.right-half {
-        .box-shadow(8px 14px 0 rgba(66, 51, 83, 0.6));
+        .box-shadow(8px 14px 0 @frameBorderColor);
 
         &:before {
             top: -14px;
             right: -8px;
             left: auto;
-            border-bottom: 14px solid rgba(66, 51, 83, 0.6);
+            border-bottom: 14px solid @frameBorderColor;
             border-right: 8px solid transparent;
             border-left: none;
             border-top: 14px solid transparent;
@@ -68,7 +70,7 @@
             bottom: -28px;
             right: auto;
             left: 0px;
-            border-top: 14px solid rgba(66, 51, 83, 0.6);
+            border-top: 14px solid @frameBorderColor;
             border-left: 8px solid transparent;
             border-right: none;
             border-bottom: 14px solid transparent;
@@ -78,7 +80,7 @@
     }
     &.framed-box-deep {
         @media (min-width: @screen-md) {
-            .box-shadow(-16px 25px 0 rgba(66, 51, 83, 0.6));
+            .box-shadow(-16px 25px 0 @frameBorderColor);
 
             &:before {
                 top: -27px;
@@ -96,7 +98,7 @@
             }
 
             &.left-half {
-                .box-shadow(16px 25px 0 rgba(66, 51, 83, 0.6));
+                .box-shadow(16px 25px 0 @frameBorderColor);
                 
                 &:before {
                     top: -27px;
@@ -406,7 +408,7 @@ nav {
     h1 {
         display: inline-block;
         position: relative;
-        margin: 0.4em 0 1em;
+        margin: 0.4em 0 0.4em;
         
         em {
             display: block;
@@ -432,11 +434,10 @@ nav {
             margin-right: 0.8em;
         }
 
-        + h2 {
+        & + h2 {
             clear: both;
             font-size: 1.6em;
             text-align: center;
-            margin-top: -0.8em;
             margin-bottom: 2em;
         }
     }
@@ -457,8 +458,7 @@ nav {
             margin-right: 5.2em;
         }
 
-        h1 + h2 {
-            margin-top: -1.8em;
+        h1 {
         }
     }
     @media (min-width: @screen-md) {
@@ -468,8 +468,8 @@ nav {
 
     }
     @media (min-width: @screen-lg) {
-        h1 + h2 {
-            margin-top: -2.6em;
+        h1 {
+            
         }
     }
 }
@@ -489,7 +489,7 @@ footer {
         background: rgba(34, 53, 72, 0.4);
         padding: 1.2em;
         margin: 0;
-        color: #446a41;
+        color: #86867a;
         font-family: @font-family-serif;
         font-style: italic;
         text-align: center;
@@ -499,7 +499,7 @@ footer {
         margin-top: 8em;
 
         p {
-            font-size: 2.4em;
+            font-size: 1.8em;
         }
     }
 }
@@ -509,9 +509,9 @@ footer {
 // Project Tags
 // --------------------------------------------------
 .project-tags {
+    display: none;
     @tagdepth: 2px;
-
-    margin: 0 0 4em;
+    margin: 0 0 2em;
     padding: 0;
     text-align: center;
 
@@ -524,7 +524,7 @@ footer {
         margin: 0 0.6em;
         color: @offwhite;
         font-family: @headings-font-family;
-        font-size: 1.3em;
+        font-size: 1.1em;
         line-height: 1.6em;
         text-align: center;
         border: 1px solid @offwhite;
@@ -548,6 +548,12 @@ footer {
             background: fadeout(#c1a4f9, 90%);
             border-color: #c1a4f9;
             color: #c1a4f9;
+        }
+    }
+
+    @media (min-width: @screen-sm) {
+        li {
+            font-size: 1.3em;
         }
     }
 }
@@ -712,7 +718,7 @@ footer {
                 right: 0;
                 width: 8px;
                 height: 14px;
-                background: rgba(66, 51, 83, 0.6);
+                background: @frameBorderColor;
                 border: none;
             }
         }
@@ -740,15 +746,29 @@ footer {
 @import "glide.less";
 .project-images {
     position: relative;
-    background: #f8eeef;
-    padding: 4em 0;
-    margin-top: 8em;
+    //background: #f8eeef;
+    background: @offwhite;
+    padding: 2em;
+    margin-top: 6em;
 
     img {
         display: block;
-        margin: 20px auto;
+        margin: 2em auto 0;
         max-width: 100%;
         height: auto;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    @media (min-width: @screen-sm) {
+        margin-top: 8em;
+        padding: 3em;
+
+        img {
+            margin-top: 3em;
+        }
     }
 }
 
@@ -769,15 +789,40 @@ footer {
 }
 .project {
     .page-title {
-        background: @gray;
-        padding: 20em 0 4em;
+        position: relative;
+        //background: @gray;
+        //padding: 20em 0 4em;
+    }
+}
+.project-header {
+    border-bottom: 14px solid @frameBorderColor;
+    width: 100%;
+    margin: 0 auto 3em;
+
+    img {
+        .img-responsive;
+    }
+
+    @media (min-width: @screen-xs) {
+        margin-bottom: 4em;
+    }
+    @media (min-width: @screen-sm) {
+        width: auto;
+        margin: 0 2em 6em;
+        border-bottom: none;
+        .framed-box;
+        .framed-box-deep;
+    }
+    @media (min-width: 1340px) {
+        width: 1300px;
+        margin: 0 auto 8em;
     }
 }
 .project-section {
     .clearfix();
     .limiter;
-    margin-bottom: 6em;
-    padding: 0 2em;
+    margin-bottom: 5em;
+    padding: 0 1em;
     
     h2 {
         margin-bottom: 0.2em;
@@ -841,5 +886,4 @@ footer {
 
 
 .our-wedding-website {
-
 }
